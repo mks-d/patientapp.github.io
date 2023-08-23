@@ -2,7 +2,7 @@
 title: Patient App is coming soon...
 email: hello@patientapp.io
 description: Email us at <a href="mailto:hello@patientapp.io">hello@patientapp.io</a> to be notified about our launch.
-baseurl: "/eventually-jekyll-theme" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
 # Social settings
